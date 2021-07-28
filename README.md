@@ -13,12 +13,10 @@
 
 ## Programming language 
 
-<img src="https://img.icons8.com/color/50/000000/c-programming.png">
-<img src="https://img.icons8.com/color/48/000000/python--v1.png">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+<img src="https://img.icons8.com/color/50/000000/c-programming.png"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> 
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
 
 
 --------
 <img src="https://github-readme-stats.vercel.app/api?username=NadavShwartz93&show_icons=true&title_color=195864&text_color=766149&bg_color=E6F6FC&icon_color=D5C9B6">
-# NadavShwartz93
