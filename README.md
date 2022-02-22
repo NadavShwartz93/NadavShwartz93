@@ -6,16 +6,17 @@
 
 ## About me
 
--	🧑‍🎓 My name is Nadav Shwarz and I'm a student at Ort Braude College.
--	🧑‍💻 I am in my fourth year of studies towards a bachelor of science in Software Engineering.
--	🕵️ 	I like to programing and investigate new technology.
+-	🧑‍🎓 My name is Nadav Shwarz and I'm a Software Engineering Student \
+     at Ort Braude College towards B.S.c.
+-	🧑‍💻 I'm in my 4th year of studies, very love programing and investigating new technology.
+-	🕵️ I'm looking for job as a Junior Software Engineer,\
+     and interested in positions of C++ Developer, Real-Time SW Engineer.
 
 
-## Programming language 
-
-<img src="https://img.icons8.com/color/50/000000/c-programming.png"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> 
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+## My Technology Stack 
+![](https://img.icons8.com/color/50/000000/c-programming.png "C")![](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png "C++")
+![](https://img.icons8.com/color/48/000000/python--v1.png "Python")![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png "Java")
+![](https://img.icons8.com/color/48/000000/mysql-logo.png "MySQL")
 
 
 --------
