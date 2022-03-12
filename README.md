@@ -8,7 +8,7 @@
 
 -	🧑‍🎓 My name is Nadav Shwarz and I'm a Software Engineering Student \
      at [Ort Braude College](https://w3.braude.ac.il/?lang=en) towards B.S.c.
--	🧑‍💻 I'm in my 4th year of studies, very love programing and investigating new technology.
+-	🧑‍💻 I'm in my 4th year of studies, very love programing and investigating new technologies.
 -	🕵️ I'm looking for job as a Junior Software Engineer,\
      and interested in positions of C++ Developer, Real-Time SW Engineer.
 
